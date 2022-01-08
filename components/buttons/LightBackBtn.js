@@ -4,6 +4,8 @@ import styled from "styled-components";
 const Btn = styled.button`
   background: transparent;
   color: #647196;
+  width: 158px;
+  height: 53px;
   font-size: 14px;
   font-weight: 700;
   border: none;

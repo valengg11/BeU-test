@@ -7,8 +7,8 @@ const P = styled.p`
   font-weight: 400;
 `;
 
-const TextP1 = ({ title }) => {
-  return <P>{title}</P>;
+const Text1 = ({ text }) => {
+  return <P>{text}</P>;
 };
 
-export default TextP1;
+export default Text1;
